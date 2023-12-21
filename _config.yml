@@ -5,6 +5,11 @@ avatar: /logo.png
 email: xht21@mails.jlu.edu.cn
 
 plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
