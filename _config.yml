@@ -1,8 +1,8 @@
 title: Personal homepage
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+description: Personal Homepage of hangtong xu.
 author: Hangtong Xu
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: xht21@mails.jlu.edu.cn
 
 plugins:
   - jekyll-seo-tag
